@@ -51,7 +51,7 @@
 * http://zorexeye.com/ (ZorexEye)
 * https://pulsedive.com/ (威胁情报搜索引擎-Pulsedive)
 * https://netograph.io/ (netograph.io ~ detailing the web)
-* https://vigilante.pw/ (被黑统计数据库搜索引擎)
+* https://dehashed.com/ (被黑统计数据库搜索引擎)
 * http://maltiverse.com/search (Maltiverse)
 * http://insecam.org/ (实时的互联网IP摄像机目录)
 
